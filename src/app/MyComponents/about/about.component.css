@@ -1,0 +1,23 @@
+.about-heading
+{
+    font-family: 'Pacifico', cursive;
+    font-size: 50px;
+    padding-bottom: 25px;
+}
+.div-about
+{
+    background-color: #99F3BD;
+    margin: 30px;
+    padding: 30px;
+    border-radius: 30px;
+}
+.custom
+{
+    text-align: center;
+    font-size: 25px;
+}
+.div-main
+{   
+    background-color: #D2F6C5;
+    padding: 30px 140px 500px 140px;
+}
